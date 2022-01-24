@@ -6,5 +6,5 @@
 
 
 ## CS
-- [프로세스 관리 모델](https://github.com/Jinsujin/DOING/issues/3)
+- [프로세스 메모리 모델](https://github.com/Jinsujin/DOING/issues/3)
 - [메모리 관리](https://github.com/Jinsujin/DOING/issues/4)
