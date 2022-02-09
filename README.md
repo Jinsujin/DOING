@@ -13,3 +13,11 @@
 
 ## Swift
 - [고차함수 map,filter, reduce](https://github.com/Jinsujin/DOING/issues/6)
+- [DispatchQueue, OperationQueue](https://github.com/Jinsujin/DOING/issues/11)
+
+## TIP
+- [짝 프로그래밍](https://github.com/Jinsujin/DOING/issues/13)
+- [디버깅: LLDB](https://github.com/Jinsujin/DOING/issues/10)
+
+## ETC
+- [Docker](https://github.com/Jinsujin/DOING/issues/12)
