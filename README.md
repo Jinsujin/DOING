@@ -14,10 +14,21 @@
 ## Swift
 - [고차함수 map,filter, reduce](https://github.com/Jinsujin/DOING/issues/6)
 - [DispatchQueue, OperationQueue](https://github.com/Jinsujin/DOING/issues/11)
+- [ViewControllers-container view controller](https://github.com/Jinsujin/DOING/issues/17)
+- [인터페이스 빌더](https://github.com/Jinsujin/DOING/issues/23)
+- [iOS App Sandbox: 샌드박스 구조](https://github.com/Jinsujin/DOING/issues/22)
+
+## Git
+- [merge](https://github.com/Jinsujin/DOING/issues/21)
+- [rebase](https://github.com/Jinsujin/DOING/issues/19)
+- [remote-저장소 관리](https://github.com/Jinsujin/DOING/issues/24)
+- [reflog, reset-작업 되돌리기](https://github.com/Jinsujin/DOING/issues/20)
+- [A 로 부터 파생된 브랜치 B를 upstream 브랜치와 싱크 맞추기](https://github.com/Jinsujin/DOING/issues/18)
 
 ## TIP
 - [짝 프로그래밍](https://github.com/Jinsujin/DOING/issues/13)
 - [디버깅: LLDB](https://github.com/Jinsujin/DOING/issues/10)
+- [Voice Over](https://github.com/Jinsujin/DOING/issues/16)
 
 ## ETC
 - [Docker](https://github.com/Jinsujin/DOING/issues/12)
