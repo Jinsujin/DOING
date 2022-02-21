@@ -17,6 +17,9 @@
 - [ViewControllers-container view controller](https://github.com/Jinsujin/DOING/issues/17)
 - [인터페이스 빌더](https://github.com/Jinsujin/DOING/issues/23)
 - [iOS App Sandbox: 샌드박스 구조](https://github.com/Jinsujin/DOING/issues/22)
+- [앱의 구성 요소: 꼭 알아야 하는 7개 파일들](https://github.com/Jinsujin/DOING/issues/26)
+- [iOS App 핵심 개체들](https://github.com/Jinsujin/DOING/issues/27)
+- [iOS Build 단계](https://github.com/Jinsujin/DOING/issues/28)
 
 ## Git
 - [merge](https://github.com/Jinsujin/DOING/issues/21)
@@ -24,6 +27,7 @@
 - [remote-저장소 관리](https://github.com/Jinsujin/DOING/issues/24)
 - [reflog, reset-작업 되돌리기](https://github.com/Jinsujin/DOING/issues/20)
 - [A 로 부터 파생된 브랜치 B를 upstream 브랜치와 싱크 맞추기](https://github.com/Jinsujin/DOING/issues/18)
+- [충돌(Conflict) 해결](https://github.com/Jinsujin/DOING/issues/25)
 
 ## TIP
 - [짝 프로그래밍](https://github.com/Jinsujin/DOING/issues/13)
