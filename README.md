@@ -21,6 +21,14 @@
 - [iOS App 핵심 개체들](https://github.com/Jinsujin/DOING/issues/27)
 - [iOS Build 단계](https://github.com/Jinsujin/DOING/issues/28)
 
+- [Responder Chain](https://github.com/Jinsujin/DOING/issues/37)
+- [앱 이벤트 처리: touch, press, gesture](https://github.com/Jinsujin/DOING/issues/36)
+- [(함수형)Pipe Opearator](https://github.com/Jinsujin/DOING/issues/35)
+- [Combine](https://github.com/Jinsujin/DOING/issues/34)
+- [ObjectIdentifier](https://github.com/Jinsujin/DOING/issues/33)
+- [Dynamic Types](https://github.com/Jinsujin/DOING/issues/32)
+- [Coordinate System](https://github.com/Jinsujin/DOING/issues/30)
+
 ## Git
 - [merge](https://github.com/Jinsujin/DOING/issues/21)
 - [rebase](https://github.com/Jinsujin/DOING/issues/19)
