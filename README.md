@@ -28,6 +28,7 @@
 - [ObjectIdentifier](https://github.com/Jinsujin/DOING/issues/33)
 - [Dynamic Types](https://github.com/Jinsujin/DOING/issues/32)
 - [Coordinate System](https://github.com/Jinsujin/DOING/issues/30)
+- [생명주기: App, ViewController, View](https://github.com/Jinsujin/DOING/issues/46)
 
 ## Git
 - [merge](https://github.com/Jinsujin/DOING/issues/21)
